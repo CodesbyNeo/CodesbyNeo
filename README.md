@@ -1,6 +1,6 @@
 Hey, I'm Neo Mohanoe 
 Software Developer | Backend Engineer | Based in Johannesburg, South Africa
-I'm an aspiring Software Developer with a passion for building real-world solutions — from production-style REST APIs and concurrent systems to business tools that actually get used every day. I write clean, purposeful code and I'm always pushing to grow.
+I'm an aspiring Software Developer with a passion for building real-world solutions -from production-style REST APIs and concurrent systems to business tools that actually get used every day. I write clean, purposeful code and I'm always pushing to grow.
 ---
 Tech Stack
 Languages
@@ -11,6 +11,7 @@ Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
