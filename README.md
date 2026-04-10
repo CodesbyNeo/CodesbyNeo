@@ -1,5 +1,5 @@
 Hey, I'm Neo Mohanoe 
-Software Developer | Backend Engineer | Based in Johannesburg, South Africa 🇿🇦
+Software Developer | Backend Engineer | Based in Johannesburg, South Africa
 I'm an aspiring Software Developer with a passion for building real-world solutions — from production-style REST APIs and concurrent systems to business tools that actually get used every day. I write clean, purposeful code and I'm always pushing to grow.
 ---
 Tech Stack
