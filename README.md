@@ -1,8 +1,8 @@
-Hey, I'm Neo Mohanoe 👋🍗
+Hey, I'm Neo Mohanoe 
 Software Developer | Backend Engineer | Based in Johannesburg, South Africa 🇿🇦
 I'm an aspiring Software Developer with a passion for building real-world solutions — from production-style REST APIs and concurrent systems to business tools that actually get used every day. I write clean, purposeful code and I'm always pushing to grow.
 ---
-🛠️ Tech Stack
+Tech Stack
 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ Frameworks & Tools
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
-🚀 Featured Projects
+Featured Projects
 🔗 Task Manager REST API
 > Production-style REST API built with **FastAPI & PostgreSQL**. JWT authentication, full CRUD, Docker deployment, and CI/CD via GitHub Actions.
 > `Python` `FastAPI` `PostgreSQL` `Docker` `JWT`
@@ -36,13 +36,13 @@ Frameworks & Tools
 > Real-world **Python + SQLite business management system** for my catering business. Tracks inventory, events, sales, expenses, and profit reports.
 > `Python` `SQLite` `CLI` `Business Tool`
 ---
-📊 GitHub Stats
+GitHub Stats
 ![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesbyNeo&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyNeo&layout=compact&theme=tokyonight&hide_border=true)
 ---
-📫 Let's Connect
+Let's Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
-"Code is not just instructions for machines — it's solutions for people." 🚀
+"Code is not just instructions for machines — it's solutions for people." 
